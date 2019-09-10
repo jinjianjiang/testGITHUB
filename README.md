@@ -7,3 +7,5 @@ Creating a new branch is quick & simple.
 fix bug
 
 update test
+
+new test
